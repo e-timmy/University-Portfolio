@@ -1,4 +1,4 @@
-**Peer-to-Peer File-Sharing Platform**
+# Peer-to-Peer File-Sharing Platform
 
 - In this project, we implemented a p2p architecture for a file-sharing service using skeleton code provided by the subject coordinator. 
 - Compared to a centralised architecture, where users would query a central server to download from, the distributed architecture implemented downloaded blocks of each file from different users sharing on the platform. 
