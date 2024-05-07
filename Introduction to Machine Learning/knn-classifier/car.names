@@ -1,0 +1,70 @@
+1. Title: 1985 Auto Imports Database
+
+2. Source Information:
+   -- Creator/Donor: Jeffrey C. Schlimmer (Jeffrey.Schlimmer@a.gp.cs.cmu.edu)
+   -- Date: 19 May 1987
+   -- Sources:
+     1) 1985 Model Import Car and Truck Specifications, 1985 Ward's
+        Automotive Yearbook.
+     2) Personal Auto Manuals, Insurance Services Office, 160 Water
+        Street, New York, NY 10038 
+     3) Insurance Collision Report, Insurance Institute for Highway
+        Safety, Watergate 600, Washington, DC 20037
+
+3. Relevant Information:
+   -- Description
+      This data set consists of two types of entities: (a) the
+      specification of an auto in terms of various characteristics, (b)
+      its assigned insurance risk rating.  The second rating corresponds to the
+      degree to which the auto is more risky than its price indicates.
+      Cars are initially assigned a risk factor symbol associated with its
+      price.   Then, if it is more risky (or less), this symbol is
+      adjusted by moving it up (or down) the scale.  Actuarians call this
+      process "symboling".  A value of +3 indicates that the auto is
+      risky, -2 that it is probably pretty safe.
+
+
+
+4. Number of Instances: 204
+
+5. Instance identifier
+   1. number	referencing the car
+
+6. Attribute Information:     
+     Attribute:                Attribute Range:
+     ------------------        -----------------------------------------------
+  1. symboling:                -2, -1, 0, 1, 2, 3
+  2. make:                     alfa-romero=1, audi=2, bmw=3, chevrolet=4, dodge=5, honda=6,
+                               isuzu=7, jaguar=8, mazda=9, mercedes-benz=10, mercury=11,
+                               mitsubishi=12, nissan=13, peugot=14, plymouth=15, porsche=16,
+                               renault=17, saab=18, subaru=19, toyota=20, volkswagen=21, volvo=22
+  3. fuel-type:                diesel=0, gas=1.
+  4. aspiration:               std=0, turbo=1.
+  5. num-of-doors:             four=0, two=1.
+  6. body-style:               convertible=1, hardtop=2, hatchback=3, sedan=4, wagon=5 .
+  7. drive-wheels:             4wd=1, fwd=2, rwd=3.
+  8. engine-location:          front=0, rear=1.
+ 9. wheel-base:                continuous from 86.6 120.9.
+ 10. length:                   continuous from 141.1 to 208.1.
+ 11. width:                    continuous from 0 to 1.
+ 12. height:                   continuous from 47.8 to 59.8.
+ 13. curb-weight:              continuous from 0 to 1.
+ 14. engine-type:              dohc=1, l=2, ohc=3, ohcf=4, ohcv=5, rotor=6.
+ 15. num-of-cylinders:         eight=1, five=2, four=3, six=4, three=5, twelve=6, two=7.
+ 16. engine-size:              continuous from 0 to 1.
+ 17. fuel-system:              1bbl=1, 2bbl=2, 4bbl=3, idi=4, mfi=5, mpfi=6, spdi=7, spfi=8.
+ 18. bore:                     continuous from 2.54 to 3.94.
+ 19. stroke:                   continuous from 2.07 to 4.17.
+ 20. compression-ratio:        continuous from 7 to 23.
+ 21. horsepower:               continuous from 0 to 1.
+ 22. peak-rpm:                 continuous from 4150 to 6600.
+ 23. city-mpg:                 continuous from 13 to 49.
+ 24. highway-mpg:              continuous from 16 to 54.
+
+7. Label 
+	price:                    cheap, affordable, expensive, very expensive.
+
+
+
+
+
