@@ -1,7 +1,8 @@
-### Peer-to-Peer File-Sharing Platform | Distributed Systems Assignment 1
-# Date: August 2022
-# Author: Timothy Holland
+# Peer-to-Peer File-Sharing Platform | Distributed Systems Assignment 1
+## Date: August 2022
+## Author: Timothy Holland
 
+### Description:
 - In this project, we implemented a p2p architecture for a file-sharing service using skeleton code provided by the subject coordinator. 
 - Compared to a centralised architecture, where users would query a central server to download from, the distributed architecture implemented downloaded blocks of each file from different users sharing on the platform. 
 - The process was implemented synchronously, meaning multiple files could be downloaded and shared from different users simultaneously. 
