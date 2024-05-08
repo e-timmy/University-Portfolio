@@ -1,0 +1,10 @@
+Outl,Temp,Humi,Wind,label
+s,h,n,f,no
+s,h,h,t,no
+o,h,h,f,yes
+r,m,h,f,yes
+r,c,n,f,yes
+r,c,n,t,no
+o,m,n,t,yes
+o,m,n,t,yes
+o,m,n,t,yes
