@@ -8,7 +8,7 @@ Final grade: 90% \
 ### Introduction to Machine Learning | The University of Melbourne | Spring 2022
 Description: learnt intellectual foundations of machine learning, including the mathematical principles of learning from data, algorithms and data structures for machine learning, and practical skills of data analysis. \
 Projects: knn-classfier; naive-bayes classifer with evaluation; toxicity classification research and report \
-Final grade: 97% \
+Final grade: 87% \
 
 ### Declarative Programming | The University of Melbourne | Spring 2022
 Description: \
