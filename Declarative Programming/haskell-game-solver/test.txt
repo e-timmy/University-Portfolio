@@ -1,0 +1,6 @@
+-- | Validate character to note transformation
+validNote :: Char -> Bool
+-- validNote c = c `elem` ['A', 'B', 'C', 'D', 'E', 'F', 'G']
+validNote c =
+    let n = read c
+	in c `elem` noteTypes
