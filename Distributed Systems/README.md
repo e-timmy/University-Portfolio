@@ -12,4 +12,4 @@ Examples covered: web services, distributed file systems, name services.
 
 ### Marks: 
 - Received H1s for both A1 and A2, only dropping one mark on each assignment
-- Overall mark, including 60% exam: 90%
+- Overall mark, including exam: 90%
