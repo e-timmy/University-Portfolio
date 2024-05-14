@@ -16,3 +16,8 @@ Final grade: 87%
 Description: I learned declarative programming fundamentals and techniques and explored how they differed from procedural languages. The course was split into two parts, the first focusing on Logic programming with Prolog and the second half on Functional programming with Haskell.
 Projects: Prolog CLP(FD) solver for a unique maths puzzle; unique Haskell solver for guessing-feedback game.
 Final grade: 73% 
+
+### Database Systems | The University of Melbourne | Autumn 2022
+Description: fundamentals behind database management systems. In particular, we became familiar with database system architectures and exercised concepts like query processing, optimisation, database tuning, and transactions. The course was split into two parts, the first half focused on database representations through Entity Relationship Modelling, moving from conceptual design to physical modelling. The latter half focused on SQL programming and larger concepts. 
+Projects: Entity Relationship modelling of Google Scholar's architecture; SQL statements for a fictitious database.
+Final grade: 85% 
