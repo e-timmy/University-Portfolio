@@ -1,7 +1,8 @@
 # Introduction to Machine Learning (COMP90049) | The University of Melbourne | Spring 2022
 
 ### Description
-In this subject, we learnt the foundational elements of machine learning, including mathematical principles of learning from data, cleaning/normalising data, applied algorithms and data structures for supervised and unsupervised learning, analysis of outcomes, fairness, and bias.
+In this subject, we learnt the foundational elements of machine learning, including mathematical principles of learning from data, cleaning/normalising data, applied algorithms and data structures for supervised and unsupervised learning, analysis of outcomes, fairness, and bias. \
+Source: https://handbook.unimelb.edu.au/2022/subjects/comp90049
 ### Machine learning models:
 - Supervised: KNN-classifier; Naive Bayes; Linear-regression; Perceptron; Multi-layer Neural Network; Decision-trees; 
 - Ensemble: Bagging (Random-forest); Boosting (Adaboost); Stacking
