@@ -2,8 +2,26 @@
 
 For more information on subjects and the projects developed, see READMEs within subdirectories.
 
+### Data Structures I | Charles University | Autumn 2023
+Description: We were taught how to construct efficient and dynamic data structures, proving their efficiency via worst-case, average-case, and amortised complexity. \
+Projects: tress-successor function; splay-trees; splay experiment report; (a,b)-trees; (a,b)-trees experimental report; cache-oblivous matrix-transposition; cuckoo hashing; cuckoo experiment report; bloom-filters for duplicates; oral examination. 
+Final grade: A (4.0/4.0)
+
+### Deep Learning | Charles University | Autumn 2023
+Final grade: A (4.0/4.0)
+
+### Natural Language Processing | Charles University | Autumn 2023
+Final grade: A (4.0/4.0)
+
+### Artificial Intelligence 2 | Charles University | Autumn 2023
+Final grade: A (4.0/4.0)
+
+### Planning & Scheduling | Charles University | Autumn 2023
+Final grade: A (4.0/4.0)
+
+
 ### Distributed Systems | The University of Melbourne | Spring 2022
-Description: learnt system architectures, and synchronous programming theories, applied concepts to Java projects, analysed existing real-world distributed systems. \
+Description: I learned system architectures and synchronous programming theories, applied concepts to Java projects and analysed existing real-world distributed systems. \
 Projects: peer-to-peer file sharing application (developed from skeleton code); shared-whiteboard application (developed from scratch). \
 Final grade: 90% 
 
