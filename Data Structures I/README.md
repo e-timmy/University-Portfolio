@@ -8,8 +8,10 @@ hashing families; open-addressing; linear probing; construction of LCP array via
 lock-free data structures. \
 Data structures: self-adjusting array; lazily-balanced trees; splay-trees; weighted splay-trees; (a,b)-trees; CO/CA mergesort;
 CO/CA matrix transposition; tabulation hashing; cuckoo hashing; bloom filters; (k,d)-trees; mutli-dimensional range trees; suffix arrays;
-LCP array; lock-free stack.
-Source: https://ktiml.mff.cuni.cz/~fink/teaching/data_structures_I/
+LCP array; lock-free stack. \
+Sources: 
+- https://ktiml.mff.cuni.cz/~fink/teaching/data_structures_I/
+- https://ufal.mff.cuni.cz/courses/ntin066
 
 ### Practical assignments:
 - Tress-successor function.
