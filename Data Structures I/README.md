@@ -10,20 +10,20 @@ Data structures: self-adjusting array; lazily-balanced trees; splay-trees; weigh
 CO/CA matrix transposition; tabulation hashing; cuckoo hashing; bloom filters; (k,d)-trees; mutli-dimensional range trees; suffix arrays;
 LCP array; lock-free stack. \
 
-### Pratical assignments:
+### Practical assignments:
 - Tress-successor function.
 - Splay-tree.
 - (a,b)-tree.
 - Cache-oblivous matrix-transposition.
 - Cuckoo hashing.
-- Bloom-filters for duplicates.
+- Bloom filters for duplicates.
 
 ### Experiment Reports
-- Splay-tree:
-- (a,b)-tree:
-- CO matrix transposition:
-- Cuckoo hashing:
+- Splay-tree: comparing naive implementation and standard implementations of splays on sequential insert, random, and subsets.
+- (a,b)-tree: comparing 2-3 and 2-4 trees on insert, minimum deletion then insert, and random.
+- CO matrix transposition: comparing naive and cache-oblivious implementations on different number of items and block sizes.
+- Cuckoo hashing: comparing different systems of hashing via linear probing by growth, then usage.
 
 ### Marks: 
-- Practicas & reports were hurdle to take final oral exam.
+- Practicas & reports were hurdles to take the final oral exam.
 - Final mark: A (4.0/4.0)
