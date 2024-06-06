@@ -13,7 +13,7 @@ Source: https://handbook.unimelb.edu.au/2022/subjects/comp90049
 - A3, Toxicity Classification Report: developed, applied, and critically assessed machine learning algorithms on the problem of comment toxicity classification. Models applied: knn, naive bayes, logistic regression, multilayer neural network (with hyperparameter tuning). Expressed knowledge in technical report. The problem addressed: effect of balancing techniques (Threshold Adjustment & Synthetic Resampling) on classification performance and fairness. Result: 80/100.
 ### Results:
 - A1: 19/20
-- A2: 19/25/20
+- A2: 19.25/20
 - A3: 80/100
 - Exam: ?
 - Overall: 87%
