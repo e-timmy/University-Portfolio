@@ -3,7 +3,8 @@
 ### Description
 In this subject, we learned the principles of distributed systems, beginning with systems theory, moving into programming paradigms, and finishing with real world examples.  
 Theory covered included: characterisation of distributed systems; system models; interprocess communication; remote invocation, indirect communication; operating-system support; distributed objects
-Examples covered: web services, distributed file systems, name services.
+Examples covered: web services, distributed file systems, name services. \
+Source: https://handbook.unimelb.edu.au/2022/subjects/comp90015
 
 ### Assignments (within two sub-directories):
 - A1 (20%): Peer-to-peer file sharing application.
