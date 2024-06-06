@@ -4,7 +4,7 @@ For more information on subjects and the projects developed, see READMEs within 
 
 ### Data Structures I | Charles University | Autumn 2023
 Description: we were taught how to construct efficient and dynamic data structures, proving their efficiency via worst-case, average-case, and amortised complexity. \
-Projects: tress-successor function; splay-trees; splay experiment report; (a,b)-trees; (a,b)-trees experimental report; cache-oblivous matrix-transposition; cuckoo hashing; cuckoo experiment report; bloom-filters for duplicates; oral examination. 
+Projects: tress-successor function; splay-trees; splay experiment report; (a,b)-trees; (a,b)-trees experimental report; cache-oblivous matrix-transposition; cuckoo hashing; cuckoo experiment report; bloom-filters for duplicates; oral examination. \
 Final grade: A (4.0/4.0)
 
 ### Deep Learning | Charles University | Autumn 2023
