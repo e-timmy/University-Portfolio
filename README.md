@@ -3,7 +3,7 @@
 For more information on subjects and the projects developed, see READMEs within subdirectories.
 
 ### Data Structures I | Charles University | Autumn 2023
-Description: We were taught how to construct efficient and dynamic data structures, proving their efficiency via worst-case, average-case, and amortised complexity. \
+Description: we were taught how to construct efficient and dynamic data structures, proving their efficiency via worst-case, average-case, and amortised complexity. \
 Projects: tress-successor function; splay-trees; splay experiment report; (a,b)-trees; (a,b)-trees experimental report; cache-oblivous matrix-transposition; cuckoo hashing; cuckoo experiment report; bloom-filters for duplicates; oral examination. 
 Final grade: A (4.0/4.0)
 
