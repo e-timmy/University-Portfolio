@@ -1,4 +1,4 @@
-# Data Structures I (COMP90015) | Charles University | Autumn 2023
+# Data Structures I | Charles University | Autumn 2023
 
 ### Description
 We learnt efficient data structures for trees, heaps, and hashing in this subject. Focus on mathematical proof of their properties,
@@ -9,6 +9,7 @@ lock-free data structures. \
 Data structures: self-adjusting array; lazily-balanced trees; splay-trees; weighted splay-trees; (a,b)-trees; CO/CA mergesort;
 CO/CA matrix transposition; tabulation hashing; cuckoo hashing; bloom filters; (k,d)-trees; mutli-dimensional range trees; suffix arrays;
 LCP array; lock-free stack.
+Source: https://ktiml.mff.cuni.cz/~fink/teaching/data_structures_I/
 
 ### Practical assignments:
 - Tress-successor function.
