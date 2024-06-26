@@ -2,6 +2,12 @@
 
 For more information on subjects and the projects developed, see READMEs within subdirectories.
 
+### Research Methods | The University of Melbourne | Autumn 2024
+Final grade: 92
+
+### The Ethics of Artificial Intelligence | Autumn 2024
+Final grade: 92
+
 ### Data Structures I | Charles University | Autumn 2023
 Description: we were taught how to construct efficient and dynamic data structures, proving their efficiency via worst-case, average-case, and amortised complexity. \
 Projects: tress-successor function; splay-trees; splay experiment report; (a,b)-trees; (a,b)-trees experimental report; cache-oblivous matrix-transposition; cuckoo hashing; cuckoo experiment report; bloom-filters for duplicates; oral examination. \
