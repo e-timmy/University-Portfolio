@@ -5,7 +5,7 @@ For more information on subjects and the projects developed, see READMEs within 
 ### Research Methods | The University of Melbourne | Autumn 2024
 Final grade: 92
 
-### The Ethics of Artificial Intelligence | Autumn 2024
+### The Ethics of Artificial Intelligence | The University of Melbourne | Autumn 2024
 Final grade: 92
 
 ### Data Structures I | Charles University | Autumn 2023
